@@ -1,0 +1,110 @@
+.heropage {
+  height: 500px;
+  width: 650px;
+  padding: 10px;
+  color: #ffffff;
+}
+.heropage h1 {
+  margin-left: 50px;
+  margin-top: 75px;
+}
+.heropage h4 {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.heropage2 {
+  height: 500px;
+  width: 750px;
+  padding: 10px;
+  color: #ffffff;
+}
+.heropage2 h1 {
+  margin-left: 50px;
+  margin-top: 75px;
+}
+.heropage2 h5 {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.btn {
+  margin-left: 50px;
+  margin-top: 50px;
+  text-align: center;
+  font-weight: bolder;
+  height: 45px;
+  width: 250px;
+}
+.navbar {
+  display: flex;
+  background-color: #1d1d1d;
+}
+.navbar h1 {
+  color: white;
+  margin: 5px;
+}
+.navinfo {
+  display: flex;
+  justify-content: flex-end;
+}
+#profile {
+  height: 30px;
+  width: 30px;
+}
+.color {
+  color: black;
+  background-color: #fa9b05;
+  border-radius: 10px;
+  text-align: center;
+}
+input {
+  width: 250px;
+  height: 35px;
+  border: none;
+  border-radius: 10px;
+}
+/* -------------------Main-body------------------------------ */
+
+.img {
+  height: 650px;
+  background-image: url("./src/images/banner.jpg");
+  background-size: cover;
+}
+.img2 {
+  height: 750px;
+  background-image: url("./src/images/banner3.jpg");
+  background-size: cover;
+}
+/* -----------------Footer------------------ */
+
+#end {
+  text-align: center;
+  height: 100px;
+  background-color: #222222;
+  padding: 15px;
+}
+.sp {
+  margin-left: 30px;
+  text-decoration: none;
+  color: #ffffff;
+}
+/* -----------middlebody----------- */
+.mainbody {
+  height: 700px;
+  margin: 25px;
+}
+.bo1 {
+  text-align: center;
+  margin-top: 170px;
+}
+#bo-p {
+  margin-top: 40px;
+}
+.bo2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.channel {
+  width: 200px;
+  height: 140px;
+  margin: 10px;
+}
